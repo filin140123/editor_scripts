@@ -1,8 +1,8 @@
 # editor_scripts
 
-Library of scripts for edTech editors
+Scripts for edTech editors
 
-# change-ext
+## change-ext
 Меняет расширение файлов в папке на желаемое.
 
 **Use case:**
@@ -10,11 +10,11 @@ Library of scripts for edTech editors
 2. Указать новое расширение.
 
 ---
-# change-ext2
+## change-ext2
 Тоже самое, что и *change-ext*, но с поддержкой вложенных папок.
 
 ---
-# change-names
+## change-names
 Меняет имена одинаково названных файлов на название папки, в которой те находятся. Поддерживает вложенные папки.
 
 **Use case:**
@@ -22,13 +22,13 @@ Library of scripts for edTech editors
 2. Скрипт переименует все файлы с этим названием.
 
 ---
-# find-strings
+## find-strings
 Ищет строки в файлах по слову, фразе, сочетанию символов и сохраняет их в файл `.txt`
 
 ---
-# find-strings2
+## find-strings2
 Тоже самое, что и find-strings, но с поддержкой вложенных папок.
 
 ---
-# editlib
+## editlib
 Вспомогательная библиотека для скриптов.
