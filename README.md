@@ -12,7 +12,7 @@ Scripts for edTech editors
 
 
 ## change-ext2
-Тоже самое, что и *change-ext*, но с поддержкой вложенных папок.
+Тоже самое, что и *change-ext*, но с поддержкой вложенных директорий.
 
 
 
@@ -31,7 +31,7 @@ Scripts for edTech editors
 
 
 ## find-strings2
-Тоже самое, что и find-strings, но с поддержкой вложенных папок.
+Тоже самое, что и find-strings, но с поддержкой вложенных директорий.
 
 
 

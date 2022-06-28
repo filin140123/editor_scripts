@@ -4,8 +4,9 @@ import editlib as edl
 exts = input("Enter formats, divided by space (example: 'md adoc txt'): ").split()
 word = input("Enter word to find: ")
 
-file_list = []
+# Collecting files with relative paths as strings
 
+file_list = []
 for dirname, dirs, files in os.walk("."):
     for filename in files:
         if filename.endswith(tuple(exts)):
