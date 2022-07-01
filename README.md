@@ -1,6 +1,6 @@
 # editor_scripts
 
-Scripts for edTech editors
+Free scripts for edTech editors
 
 ## change-ext
 Меняет расширение файлов в папке на желаемое.
