@@ -4,7 +4,7 @@ Free scripts for edTech editors
 
 # Python Scripts
 
-## change-ext
+## change_ext
 Меняет расширение файлов в папке на новое.
 
 **Use case:**
@@ -12,11 +12,11 @@ Free scripts for edTech editors
 2. Указать новое желаемое расширение.
 
 
-## change-ext2
+## change_ext2
 Тоже самое, что и *change-ext*, но с поддержкой вложенных директорий.
 
 
-## change-names
+## change_names
 Меняет имена одинаково названных файлов на название папки, в которой те находятся. Поддерживает вложенные папки.
 
 **Use case:**
@@ -24,7 +24,7 @@ Free scripts for edTech editors
 2. Скрипт переименует все файлы с этим названием.
 
 
-## pattern-deleter
+## pattern_deleter
 Создает новый файл без вхождения указанного паттерна, затрагивая только те строки, которые вы выбрали.
 
 **Use case:**
@@ -34,11 +34,11 @@ Free scripts for edTech editors
 4. Скрипт создаст новый файл, но уже без вхождений паттерна.
 
 
-## find-strings
+## find_strings
 Ищет строки в файлах по слову, фразе или символу/ам и сохраняет их в файл `.txt`
 
 
-## find-strings2
+## find_strings2
 Тоже самое, что и find-strings, но с поддержкой вложенных директорий.
 
 
